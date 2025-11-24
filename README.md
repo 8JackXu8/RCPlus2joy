@@ -14,7 +14,7 @@
 ## 前置准备
 
 ### 1. 硬件要求
-* **DJI RC Plus** 遥控器 (经纬 M30/M300 系列)
+* **DJI RC Plus** 遥控器
 * Windows 电脑
 * USB-C 数据线
 
